@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433059368620",
+    "project_id": "finalapp-4b873",
+    "storage_bucket": "finalapp-4b873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433059368620:android:8eb8334adc61cb85f79909",
+        "android_client_info": {
+          "package_name": "com.fazii.finalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1D1_iF6a9o-pfXONpcEEBG1BlWagdSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
